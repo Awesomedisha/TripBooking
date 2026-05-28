@@ -37,7 +37,7 @@ A **modern, fast, and responsive trip booking website** built with **React.js, V
 
 ### 1️⃣ **Clone the Repository** -
 
--git clone https://github.com/yuvrajs5/TripBooking.git
+-git clone 
 -cd TripBooking
 
 
